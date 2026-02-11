@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "flat-cache": "^6.1.20",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "html-webpack-plugin": "^4.5.2"
   }
 }
