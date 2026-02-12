@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Blue Whale Tech Consultancy Services - bwtcs.com",
   "private": true,
-  "homepage": "https://www.bwtcs.com",
+  "homepage": ".",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
